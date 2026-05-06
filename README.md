@@ -88,26 +88,19 @@
 
 ---
 
-## 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amangadava914&layout=compact&theme=radical"/>
-</p>
-
----
-
 ## 🧠 Current Focus
 
 - 📌 Data Structures & Algorithms  
 - 📌 System Design  
 - 📌 Backend Optimization  
-- 📌 QA & Automation Testing  
-
+- 📌 Devops and Data Analytics  
+- 📌 QA & Automation Testing
+- 
 ---
 
 ## 🎯 Career Goal
 
-> To become a **skilled Software Engineer** who builds scalable products and contributes to impactful real-world solutions 🚀  
+> To become a **Skilled Software Engineer** who builds scalable products and contributes to impactful real-world solutions 🚀  
 
 ---
 
