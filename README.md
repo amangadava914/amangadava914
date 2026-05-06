@@ -46,15 +46,15 @@
 
 ## 🚀 Featured Projects
 
+🔹 **Task Manager App**  
+> Deployed project with real-time task tracking  
+👉 Live: https://team-task-manager-production-20760.up.railway.app 
+
 🔹 **Job Portal Platform**  
 > LinkedIn-like job searching platform built using Next.js & modern UI  
 
 🔹 **Car Rental System (MERN Stack)**  
-> Full-stack application with booking & management system  
-
-🔹 **Task Manager App**  
-> Deployed project with real-time task tracking  
-👉 Live: https://team-task-manager-production-20760.up.railway.app  
+> Full-stack application with booking & management system   
 
 🔹 **Business Performance Dashboard**  
 > Power BI dashboard with insights & analytics  
