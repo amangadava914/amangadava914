@@ -20,14 +20,16 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Programming & Development
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma)
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
@@ -37,10 +39,26 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
 ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
 
-### 📊 Data & Tools
+### 📊 Data & Analytics
 ![Power BI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi)
+![Tableau](https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=tableau)
+
+### 🧪 Testing & QA
+![Selenium](https://img.shields.io/badge/Selenium-green?style=for-the-badge&logo=selenium)
+![JIRA](https://img.shields.io/badge/JIRA-blue?style=for-the-badge&logo=jira)
+
+### ⚙️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
+![Jenkins](https://img.shields.io/badge/Jenkins-red?style=for-the-badge&logo=jenkins)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge&logo=githubactions)
+
+### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
+![Shopify](https://img.shields.io/badge/Shopify-green?style=for-the-badge&logo=shopify)
+![WordPress](https://img.shields.io/badge/WordPress-blue?style=for-the-badge&logo=wordpress)
 
 ---
 
